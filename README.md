@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning React/Redux
 - 💞️ I’m looking to collaborate on Front-End developer
-- 📫 How to reach me https://t.me/SatanD01
+- 📫 How to reach me https://t.me/StnD01
 
 <!---
 SatanD01/SatanD01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
